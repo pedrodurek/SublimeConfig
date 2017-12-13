@@ -11,6 +11,8 @@
  - jQuery (Bundle for jQuery)
  - pyV8 (Python Emmet)
  - Sublime Bookmarks
+ - Angular 2 Spnippets (John Papa)
+ - TypeScript
 
 ### Key Bindings  (Preferences > Key Bindings)
 ```JSON
